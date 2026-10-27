@@ -13,7 +13,7 @@ npm install
 npm run dev
 ```
 
-Then open the link shown in the terminal (usually http://localhost:5173).
+Open link (usually http://localhost:5173).
 
 ## Project structure
 
